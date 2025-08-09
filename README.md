@@ -1,4 +1,4 @@
-# tolist ✅ (April, 2023)
+# tolist ✅ (August, 2024)
 
 **tolist** is a modern, fullstack to-do list application for Android, built to showcase the latest advancements in mobile development. The user interface is crafted entirely with Jetpack Compose, offering a clean, dynamic, and responsive experience.
 
