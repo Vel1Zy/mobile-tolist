@@ -38,7 +38,6 @@ This project follows a modern, fullstack approach, with a native Android client 
 * **Mark Tasks Complete:** Easily toggle the completion status of any task.
 * **Modern UI:** A beautiful and intuitive interface built entirely with Jetpack Compose.
 * **State-driven UI:** The UI reacts to state changes, ensuring consistency and reliability.
-* **Local Persistence:** Tasks are saved locally in a Room database, making them available offline.
 * **Synchronization:** Syncs with a backend service to keep your to-do list updated across sessions (if a backend is configured).
 
 ---
