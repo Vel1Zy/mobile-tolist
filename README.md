@@ -4,8 +4,6 @@
 
 This project serves as a practical implementation of modern Android architecture and best practices.
 
-[Screenshot of tolist app interface]
-
 ---
 
 ## About The Project
