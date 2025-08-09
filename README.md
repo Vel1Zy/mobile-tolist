@@ -28,7 +28,7 @@ This project follows a modern, fullstack approach, with a native Android client 
 
 ### **Backend (Fullstack Component)**
 
-**Backend-as-a-Service (BaaS):** Firebase, Supabase
+**Backend-as-a-Service (BaaS):** Firebase
 
 ---
 
