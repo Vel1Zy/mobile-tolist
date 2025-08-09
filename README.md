@@ -25,17 +25,10 @@ This project follows a modern, fullstack approach, with a native Android client 
 * **Language:** Kotlin
 * **UI Toolkit:** Jetpack Compose
 * **Architecture:** MVVM (Model-View-ViewModel)
-* **Asynchronous Programming:** Kotlin Coroutines & Flow
-* **Local Caching:** Room Database
-* **Networking:** Retrofit / Ktor Client (for connecting to the backend)
 
 ### **Backend (Fullstack Component)**
-The backend is designed to be flexible. The app can connect to any backend that exposes a REST API for handling tasks. Common choices for this include:
 
-* **Kotlin:** Ktor, Spring Boot
-* **Go:** Gin
-* **JavaScript/TypeScript:** Node.js with Express
-* **Backend-as-a-Service (BaaS):** Firebase, Supabase
+**Backend-as-a-Service (BaaS):** Firebase, Supabase
 
 ---
 
@@ -89,8 +82,3 @@ To get a local copy up and running, follow these simple steps.
     * Select an emulator or connect a physical device.
     * Click the 'Run' button in Android Studio.
 
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
