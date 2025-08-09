@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912109911599",
+    "project_id": "to-list-74f5b",
+    "storage_bucket": "to-list-74f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912109911599:android:173fb0536ca6ae43c010da",
+        "android_client_info": {
+          "package_name": "edu.bluejack23_2.to_LIst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApaxVjgq2UVNxgLVrCZ4f0fI0FRLS7V3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

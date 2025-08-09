@@ -1,0 +1,13 @@
+
+Classes Needed
+
+User
+-Username
+-Email
+-Password
+-Role
+-
+
+To Do List
+
+
